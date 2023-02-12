@@ -1,0 +1,12 @@
+.header{
+    display:flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #f9f9f9f7 ;
+    align-items: center;
+}
+.header_logo{
+    height:40px;
+}
+.header_icon{
+    padding:20px;
+}
